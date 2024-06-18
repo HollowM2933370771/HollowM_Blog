@@ -1,27 +1,16 @@
-#
-# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
-#
 
-# 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
-# 注意，“name: LOFFER”，冒号后面的空格不可以省略。
-# 井号后面的文字是说明文档，不会被程序读取。
-
-# 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+name: HollowM_Blog
+description: 三两残句，吹文唬词，作无端崖之辞
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
 
 # 添加你的博客的二级域名，一般来说是你的repository名
-# 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
-# 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /HollowM_Blog
 
 
-#
 # 下面的设定都是可选的
-#
+
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
