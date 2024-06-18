@@ -25,9 +25,9 @@ navigation:
     url: /
   - name: 关于
     url: /about
-  - name: 归档
+  - name: 文章
     url: /archive
-  - name: 标签
+  - name: 分类
     url: /tags
 
 # 每页的文章数
