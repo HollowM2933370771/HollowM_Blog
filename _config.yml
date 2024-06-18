@@ -62,15 +62,15 @@ footer-text: Copyright  (c)  2024   HollowM
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-# disqus: loffer #shortname
+disqus: hollowm #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: Ov23liovK88j8tIf0Tmu
-  clientSecret: 9e487a818d2f34de51b167382a6f93dbdb0e596f
-  repo: HollowM_Blog
-  owner: HollowM2933370771
-  proxy: https://cors-anywhere.azm.workers.dev/...
+#gitalk:
+#  clientID: Ov23liovK88j8tIf0Tmu
+#  clientSecret: 9e487a818d2f34de51b167382a6f93dbdb0e596f
+#  repo: HollowM_Blog
+#  owner: HollowM2933370771
+#  proxy: https://cors-anywhere.azm.workers.dev/...
 
 # 输入Google Analytics web tracking code
 google_analytics:
