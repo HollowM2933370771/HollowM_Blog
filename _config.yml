@@ -1,5 +1,5 @@
 
-name: HollowM's Blog
+name: 紫君子的博客
 description: 三两残句，吹文唬词，作无端崖之辞
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -55,7 +55,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2024 HollowM/紫君子
+footer-text: Copyright  (c)  2024   HollowM/紫君子
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
